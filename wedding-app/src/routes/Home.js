@@ -1,8 +1,12 @@
+import Navbar from "../components/Navbar";
+
 export default function Home() {
   return (
-    <header className="App-header">
+
+    <div>
+      <Navbar />
         <p>Home</p>
-    </header>
+    </div>
   );
 }
 
