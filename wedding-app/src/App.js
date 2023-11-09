@@ -21,9 +21,9 @@ function App() {
         <Route path="/rsvp" element={ <Rsvp /> } />
       </Routes> */}
 
-      <header className="App-header">
+      {/* <header className="App-header">
         <p>Coming Soon</p>
-      </header>
+      </header> */}
     </div>
   );
 }
