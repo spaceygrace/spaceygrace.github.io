@@ -1,34 +1,21 @@
 import './App.css';
 import { Routes, Route} from "react-router-dom";
 import Navbar from './components/Navbar';
-import Notice from './routes/Notice';
 import Home from "./routes/Home"
-import Rsvp from './routes/Rsvp';
+import Faq from './routes/Faq';
 
 function App() {
   return (
-
     <div className="App">
-      <Routes>
-        <Route path="/" element={ <Notice /> } />
-        <Route path="/demo" element={ <Home /> } />
-      </Routes>
-
-      {/* <Navbar />
+      <Navbar />
       <Routes>
         <Route path="/" element={ <Home /> } />
         <Route path="/home" element={ <Home /> } />
-        <Route path="/rsvp" element={ <Rsvp /> } />
-      </Routes> */}
-
-      {/* <header className="App-header">
-        <p>Coming Soon</p>
-      </header> */}
+        <Route path="/faq" element={ <Faq /> } />
+        {/* <Route path="/rsvp" element={ <Rsvp /> } /> */}
+      </Routes>
     </div>
   );
 }
-
-
-// <!-- <script type="text/javascript" src="https://test-grace.rsvpify.com/embed"></script> -->
 
 export default App;
