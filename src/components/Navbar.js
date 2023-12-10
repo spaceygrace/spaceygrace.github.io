@@ -6,7 +6,7 @@ const Navbar = () => {
   const handleShowNavbar = () => {
     setShowNavBar(!showNavBar)
   }
-
+//fix so on mobile click anywhere offnavbar to collapse menu
   return (
     <nav class="navbar">
       <div class="nav-container">
