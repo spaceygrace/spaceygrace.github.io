@@ -1,7 +1,9 @@
 export default function Faq() {
     return (
-      <div>
-          <p>FAQ</p>
+      <div class="page-wrapper">
+        <div class="banner">
+          <h2>FAQ</h2>
+        </div>
       </div>
     );
   }
