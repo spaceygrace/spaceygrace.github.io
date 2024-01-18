@@ -30,28 +30,16 @@ export default function App() {
 }
 
 // NEXT
-  // finish home page
+  // finish home page .. styles got all whacked
+  // keep refactoring styles
   // refactor navbar
   // details page
   // gallery page
   // mobile formatting
-
-
-/* NEXT... */
-/* git committed and urls sorted and tell lily she can test qr codes now  */
-// updtae the embedded link for rsvp form
-
-/* then once login page looks good, go fix styles on home page that got messed up */
-/* then could clean up and deploy new url  */
-
-
-
-
-
+  // updtae the embedded link for rsvp form
 
 // THEN
-  // features
-    // faq collapsing questions
+    // faq collapsing questions??
     // instagram thing
       // set up hashtags
     // embedded map in details
@@ -59,7 +47,6 @@ export default function App() {
   // styles
     // need to clean css sheet big time
     // fix details page
-    // login screen
     // countdown
       // have labels for day hour minute
     // fonts
@@ -69,7 +56,7 @@ export default function App() {
     // favixon on rsvp link
     // hover colors
 
-  // mobile
+  // mobile fomrmatting..
     // click anywhere offnavbar to collapse menu
     // make menu opaque
     // check styles & fix anything weird
