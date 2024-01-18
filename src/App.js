@@ -30,7 +30,6 @@ export default function App() {
 }
 
 // NEXT
-// move url
   // finish home page
   // refactor navbar
   // details page
@@ -68,15 +67,6 @@ export default function App() {
     // check full screen
     // favixon on rsvp link
     // hover colors
-
-  // backend
-    // move urls
-      // change here, commit
-      // chanfw in github on weird branch
-      // pull here
-      // deploy?
-      // wgen to change on github foirm? do i need to?
-    // can get undefined error if trying to access with url situation
 
   // mobile
     // click anywhere offnavbar to collapse menu
