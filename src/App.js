@@ -39,6 +39,7 @@ export default function App() {
 
 /* NEXT... */
 /* git committed and urls sorted and tell lily she can test qr codes now  */
+// updtae the embedded link for rsvp form
 
 /* then once login page looks good, go fix styles on home page that got messed up */
 /* then could clean up and deploy new url  */
